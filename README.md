@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/codingfrog27/codingfrog27/main/banner.png)](https://github.com/codingfrog27)
 
-<img align='left' src="https://badge42.vercel.app/api/v2/cl6aq7snp000609l16df3jlsk/stats?cursusId=21&coalitionId=58)">
+<img align='left' src="https://badge42.vercel.app/api/v2/cl6aq7snp000609l16df3jlsk/stats?cursusId=21&coalitionId=58)" alt="mde-cloe's 42 stats" height="170"/>
 - 🔭  currently working on __so_long__
 - 🌱 learning C 
 - 🌸 Pronouns: he/they
