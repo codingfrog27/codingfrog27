@@ -1,3 +1,6 @@
+[![MasterHead](https://raw.githubusercontent.com/codingfrog27/codingfrog27/main/banner.png)](https://github.com/codingfrog27)
+
+
 ### ***GReetings Fellow coder!*** 🐸 uwu
 
 I'm Merlin, currently studying at the 42 school Codam!
