@@ -8,3 +8,6 @@ I'm Merlin, currently studying at the 42 school Codam!
 - ⚡ Fun fact: I'm a just dance legend 😌
 
 [![mde-cloe's 42 stats](https://badge42.vercel.app/api/v2/cl6aq7snp000609l16df3jlsk/stats?cursusId=21&coalitionId=58)](https://github.com/JaeSeoKim/badge42)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=codingfrog27)](https://github.com/ryo-ma/github-profile-trophy)
+
