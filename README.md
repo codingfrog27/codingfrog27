@@ -4,7 +4,7 @@
 
 I'm Merlin (also known as Frog), currently studying at the 42 school Codam!
 
-- 🔭  currently working on: __so_long__
+- 🔭  currently working on: __minishell__
 - 🌱 learning: C 
 - 🌸 Pronouns: they/he
 - ⚡ Fun fact: I'm a just dance legend 😌
