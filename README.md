@@ -11,7 +11,7 @@ I'm Merlin (also known as Frog), currently studying at the 42 school Codam!
 
 
 
-[![Frog's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingfrog27&show_icons=true&theme=cobalt&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Frog's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingfrog27&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=codingfrog27)](https://github.com/ryo-ma/github-profile-trophy)
